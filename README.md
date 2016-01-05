@@ -1,4 +1,6 @@
 # hubot-insults
+![hubot-insults](http://i.imgur.com/WFdLzo9.gif)
+
 Tastefully, insult your colleagues with Hubot
 
 More than `60` insults and `50` images to `tastefully` insult your colleagues.
