@@ -1,6 +1,6 @@
 {
   "name": "hubot-insults",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tastefully insult your colleagues with Hubot",
   "main": "index.coffee",
   "scripts": {
