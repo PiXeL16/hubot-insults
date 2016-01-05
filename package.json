@@ -17,7 +17,8 @@
     "hubot",
     "insults",
     "hubot-scripts",
-    "hubot-script"
+    "hubot-script",
+    "insult"
   ],
   "author": "Chris Jimenez <cjimenez16@gmail.com>",
   "license": "MIT",
