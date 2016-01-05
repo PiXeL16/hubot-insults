@@ -1,0 +1,28 @@
+{
+  "name": "hubot-insults",
+  "version": "1.0.0",
+  "description": "Tastefully insult your colleagues with Hubot",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiXeL16/hubot-insults.git"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+  "keywords": [
+    "hubot",
+    "insults",
+    "hubot-scripts",
+    "hubot-script"
+  ],
+  "author": "Chris Jimenez <cjimenez16@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PiXeL16/hubot-insults/issues"
+  },
+  "homepage": "https://github.com/PiXeL16/hubot-insults#readme"
+}
